@@ -1,5 +1,10 @@
 # tas-042-model-inference-in-sql
 
+TAS-042: Model inference in SQL. A discussion paper proposing the structure of a function library for model inference in SQL, a fixed entry template for describing each function, and the cross-cutting concepts that must be settled before individual functions can be specified.
+
+- [Paper (Markdown)](tas-042-model-inference-in-sql.md)
+- [Paper (PDF)](tas-042-model-inference-in-sql.pdf)
+
 ## License
 
 This work is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). See [LICENSE](LICENSE) for the full text.
